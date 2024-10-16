@@ -1,3 +1,3 @@
 # digital-clock
 
-Group project for a digital clock with an added feature that maps the user's current location, utilizing the ESP8266 AT Instruction Set to execute the localization process.
+Group project in which a prototype of a digital clock was developed, featuring an added function that maps the user's current location using the ESP8266 AT Instruction Set for localization.
